@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Pathology and Pathophysiology"
+    ]
+  ],
+  "legacy_uid": "e8fe02da-6b37-afb5-8f73-ff56c98ea561",
+  "instructors": {
+    "content": [
+      "0714bf7c-458d-8af3-333b-f8d59a82f7b7",
+      "6e230373-d5ea-3f86-8eac-7cb48945daa5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bbf9fbe5-ceeb-b5db-5590-4d63cf37b841",
+    "website": "hst-035-principle-and-practice-of-human-pathology-spring-2003"
+  },
+  "course_title": "Principle and Practice of Human Pathology",
+  "hide_download": true,
+  "course_description": "This course provides a comprehensive overview of human pathology with emphasis on mechanisms of disease and diagnostic medicine. Topics include:\n\n- Cellular Mechanisms of Disease\n- Molecular Pathology\n- Pathology of Major Organ Systems\n- Review of Diagnostic Tools from Traditional Surgical Pathology to Diagnostic Spectroscopy\n- Functional and Molecular Imaging\n- Molecular Diagnostics\n\nIn addition to lectures, one of the two weekly sessions includes a 2-3 hour laboratory component. Periodically, time will also be devoted to minicases.\n\n**Lecturers**\n\nProf. Jon Aster, Prof. Frederick Bieber, Prof. Carlo Brugnara, Prof. Robert B. Colvin, Prof. Christopher Crum , Prof. Douglas Dockery, Prof. Mel Feany, Prof. Michael Feld, Prof. Jonathan Fletcher, Prof. Michael Gimbrone, Prof. Todd Golub, Prof. Frank B. Hu, Prof. Donald Ingber, Prof. Hart Lidov, Prof. David Louis, Prof. Richard Mitchell, Prof. Fiona Murray, Prof. Mark Redston, Prof. Helmut Rennke, Prof. Bruce Rosen, Prof. Frederick Schoen, Prof. Christine Seidman",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.035",
+  "course_image_thumbnail": {
+    "content": "7bfef034-6881-1004-0680-75a63d1fa2f0",
+    "website": "hst-035-principle-and-practice-of-human-pathology-spring-2003"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "5c9820f0-cfae-4218-80bb-3c167a63d3c6",
+  "site_short_id": "hst.035-spring-2003",
+  "site_url_path": "courses/hst-035-principle-and-practice-of-human-pathology-spring-2003",
+  "title": "Course Metadata"
+}
